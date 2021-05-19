@@ -1,22 +1,22 @@
-
 /**
- * Write a description of class AliceAndBobEngine here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @author git-leon
+ * @version 1.0.0
+ * @date 5/19/21 5:05 PM
  */
-public class AliceAndBobEngine
-{
-    String result;
-    
-    AliceAndBobEngine(){
-        result = "";
+public class AliceAndBobEngine {
+    public Boolean isAlice(String input) {
+        return null;
     }
 
-    //HINT: LOOK AT THE TESTS TO SEE WHAT IS EXPECTED FOR DIFFERENT CONDITIONS
-    public String evaluateAliceOrBob(String input)
-    {
-    
-        return result;
+    public Boolean isBob(String input) {
+        return null;
+    }
+
+    public Boolean isAliceOrBob(String input) {
+        return null;
+    }
+
+    public String getGreeting(String input) {
+        return null;
     }
 }
