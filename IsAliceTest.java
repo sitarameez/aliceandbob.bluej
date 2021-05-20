@@ -5,6 +5,7 @@ import org.junit.Test;
  * @author git-leon
  * @version 1.0.0
  * @date 5/19/21 5:06 PM
+ * Used to test `AliceAndBobEngine.isAlice`
  */
 public class IsAliceTest {
     private void testIsAlice(String input, Boolean expected){
