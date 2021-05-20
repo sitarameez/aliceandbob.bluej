@@ -36,7 +36,8 @@ public class AliceAndBobEngine {
      *      return "Hello PERSONSNAME!",
      * otherwise
      *      return "Begone, PERSONNAME! You're a stranger!",
-     *      where `PERSONNAME` is replaced with the person's name respectively.
+     * where `PERSONNAME` is replaced with the person's name respectively.
+     *
      * @param input - this value is variable: it has the potential to be many things
      * @return `true` if `input` is "Alice"
      */
